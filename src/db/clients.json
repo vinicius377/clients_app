@@ -1,0 +1,16 @@
+{
+	"data": [
+		{
+			"cpf": 12333123,
+			"name": "asdasdasd",
+			"id": 2
+		},
+		{
+			"cpf": 12333123,
+			"name": "asdasdasd",
+			"id": 1
+		}
+	],
+	"count": 2,
+	"updatedAt": "2024-02-10T15:39:01.560Z"
+}
